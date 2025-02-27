@@ -19,17 +19,17 @@ NodeJS Latest LTS
 
 
 * Design Principles
-    * SRP
-    * OCP: Specification for filter
-    * LSP
-    * ISP
-    * DI
+    * SRP ✅
+    * OCP: Specification for filter ✅
+    * LSP ✅
+    * ISP ✅
+    * DI ✅
 * Creational Patterns
-    * Builder
-    * React Compound Pattern
+    * Builder ✅
+    * React Compound Pattern ✅
     * Factory
     * Abstract Factory
-    * Prototype
+    * Prototype ✅
     * Singleton
 * Structural Pattern
     * Decorator Pattern
