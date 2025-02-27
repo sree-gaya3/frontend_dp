@@ -27,8 +27,8 @@ NodeJS Latest LTS
 * Creational Patterns
     * Builder ✅
     * React Compound Pattern ✅
-    * Factory
-    * Abstract Factory
+    * Factory ✅
+    * Abstract Factory ✅
     * Prototype ✅
     * Singleton ✅
 * Structural Pattern

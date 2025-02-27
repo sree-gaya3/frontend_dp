@@ -16,7 +16,7 @@ CoordinateSystem = {
 
   class PointFactory {
     // not necessariliy static
-     newPolarPoint(rho, theta) {
+     static newPolarPoint(rho, theta) {
         return new Point(rho * Math.cos(theta), rho * Math.sin(theta));
     }
 
