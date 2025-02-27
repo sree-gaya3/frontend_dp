@@ -30,7 +30,7 @@ NodeJS Latest LTS
     * Factory
     * Abstract Factory
     * Prototype ✅
-    * Singleton
+    * Singleton ✅
 * Structural Pattern
     * Decorator Pattern
     * Facade Pattern

@@ -72,6 +72,7 @@ let karthik = new Person('Karthik',
 // let rahul = JSON.parse(JSON.stringify(karthik));
 
 let rahul = serializer.clone(karthik);
+// let rahul = Object.create(karthik); // added in es6.. similar cloning thing
 
 // doing this only copies the key-value pairs.. and not the type information.. it is lost.. 
 // so behaviour is also lost
