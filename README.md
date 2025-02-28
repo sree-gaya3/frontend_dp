@@ -32,12 +32,12 @@ NodeJS Latest LTS
     * Prototype ✅
     * Singleton ✅
 * Structural Pattern
-    * Decorator Pattern
+    * Decorator Pattern ✅
     * Facade Pattern
     * Adapter
     * Bridge ✅
     * Composite
-    * Flyweight
+    * Flyweight ✅
     * Proxy ✅
 * Behavioural 
     * Command
