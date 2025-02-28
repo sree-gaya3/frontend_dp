@@ -3,6 +3,7 @@ import './App.css';
 import React from 'react';
 import Input from './components/Input';
 import Display from './components/Display';
+import DogImage from './components/DogImage';
 
 const SpanWithText = ({ text, props }) => {
   return <span {...props}>{text}</span>
@@ -26,6 +27,7 @@ export default function App() {
     <>
       <Input />
       <Display />
+      <DogImage />
     </>
   );
 }
