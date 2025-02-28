@@ -36,13 +36,13 @@ NodeJS Latest LTS
     * Facade Pattern
     * Adapter
     * Bridge ✅
-    * Composite
+    * Composite ✅
     * Flyweight ✅
     * Proxy ✅
 * Behavioural 
     * Command
     * Chain Of Responsibility 
-    * Visitor
+    * Visitor ✅
     * Observer
 
 ========
