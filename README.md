@@ -35,10 +35,10 @@ NodeJS Latest LTS
     * Decorator Pattern
     * Facade Pattern
     * Adapter
-    * Bridge
+    * Bridge ✅
     * Composite
     * Flyweight
-    * Proxy
+    * Proxy ✅
 * Behavioural 
     * Command
     * Chain Of Responsibility 
