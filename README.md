@@ -40,7 +40,7 @@ NodeJS Latest LTS
     * Flyweight ✅
     * Proxy ✅
 * Behavioural 
-    * Command
+    * Command ✅
     * Chain Of Responsibility 
     * Visitor ✅
     * Observer
